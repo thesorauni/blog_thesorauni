@@ -1,6 +1,6 @@
 baseURL = "https://thesorauniverse.com"
 languageCode = "en-us"
-title = "The Sora"
+title = "TheSora"
 theme = "soho"
 
 enableInlineShortcodes = true
@@ -10,7 +10,7 @@ enableEmoji = true
 
 [params]
 author = "Thesora"
-description = "Thesora Blog"
+description = "Game Dev Blog"
 
 copyright = "Thesora"
 license = "CC BY-SA 4.0"

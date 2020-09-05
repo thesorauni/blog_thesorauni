@@ -1,7 +1,7 @@
 ---
 title: "Markdown Template"
 date: 2020-09-04T22:52:30+09:00
-draft: false
+draft: true
 ---
 
 
@@ -131,8 +131,7 @@ func main() {
 DEFAULT_WAIT_TIME = 10
 ```
 
-```lang-Powershell
-# onPowerShell
+```Powershell
 Set-ExecutionPolicy Bypass -Scope Process -Force; [System.Net.ServicePointManager]::SecurityProtocol = [System.Net.ServicePointManager]::SecurityProtocol -bor 3072; iex ((New-Object System.Net.WebClient).DownloadString('https://chocolatey.org/install.ps1'))
 ```
 
