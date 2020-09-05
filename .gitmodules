@@ -2,3 +2,6 @@
 	path = public
 	url = https://github.com/thesorauni/thesorauni.github.io.git
 	branch = master
+[submodule "themes/soho"]
+	path = themes/soho
+	url = https://github.com/alexandrevicenzi/soho.git
