@@ -1,8 +1,8 @@
 ---
 title: "몰입 이론 -칙센트미하이-"
 date: 2020-09-07T23:30:49+09:00
-categories: []
-tags: []
+categories: ["개발마인드"]
+tags: ["개발마인드", "몰입", "flow 상태"]
 cover: ""
 draft: false
 ---
