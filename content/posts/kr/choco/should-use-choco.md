@@ -2,7 +2,7 @@
 title: "Choco 사용하기(Windows Package Manager)"
 date: 2020-09-04T22:54:49+09:00
 categories: []
-tags: []
+tags: ["windows", "choco", "choco command"]
 cover: ""
 draft: false
 ---
